@@ -3,9 +3,10 @@ My first repository
 
 ## **Favorite Series**
 1. **Loki**
-   ![Loki](https://th.bing.com/th/id/R.731649bd2d70e0c59461ef2d9e1c747b?rik=ip13%2frm6YzcuPg&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2f36CTFM2xq3qpfaHVh960McO0etL.jpg&ehk=eCv3aKKE1YVGeNCmCrRMk%2bofpnE0Bbu%2fTqvBveNus3s%3d&risl=&pid=ImgRaw&r=0)
+   ![Loki](https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Loki-Cast.jpg)
    > Loki, the God of Mischief, steps out of his brother's shadow to embark on an adventure that takes place after the events of "Avengers: Endgame."
 2. **Rick and Morty**
+   ![RickAndMorty](https://media.gq.com/photos/6577b95756b753fcf473be4b/master/pass/AS_RAM_709_RickfendingYourMort-10.png)
    > Rick is a mad scientist who drags his grandson, Morty, on crazy sci-fi adventures.
 3. **Black Clover**
    > In a world of magic, Asta, a boy with anti-magic powers, will do whatever it takes to become the Wizard King.

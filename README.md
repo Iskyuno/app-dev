@@ -3,7 +3,7 @@ My first repository
 
 ## **Favorite Series**
 1. **Loki**
-   > The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”
+   - The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”
 2. **Rick and Morty**
    > The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.
 3. **Black Clover**
